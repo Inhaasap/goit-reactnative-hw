@@ -1,2 +1,2 @@
-# goit-reactnative-hw-01
-React Native Home Work 1
+# goit-reactnative-hw
+React Native Home Work
